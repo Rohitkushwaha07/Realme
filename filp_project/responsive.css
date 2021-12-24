@@ -1,0 +1,9 @@
+@media screen and (max-width: 1321px) {
+    body{
+        background-color: rgb(241, 163, 163);
+    }
+    nav{
+        
+        flex-direction: column;
+    }
+}
